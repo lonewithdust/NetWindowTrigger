@@ -92,4 +92,4 @@ netsh advfirewall firewall add rule name="NetWindowTrigger" dir=in action=allow 
 
 ## License
 
-MIT
+Apache-2.0 license
